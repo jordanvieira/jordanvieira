@@ -1,5 +1,7 @@
 ## Olá, me chamo Jordan Vieira
 ### Bem vindo ao meu perfil GitHub 👋
+• Acadêmico de Engenharia de Software - UEPA   
+• Suporte técnico à infraestrutura AWS no Grupo Mytec
 
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" height="40"/>
